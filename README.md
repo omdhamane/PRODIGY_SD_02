@@ -60,15 +60,15 @@ The application follows a modern card-based UI design with a clean layout and pr
 
 📸 Screenshot of the application 
 
-<img width="1920" height="1080" alt="Screenshot 2025-12-31 131524" src="https://github.com/user-attachments/assets/7ebdbe2a-7905-4ce5-9354-fc920ee2eec5" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-31 131524" src="https://github.com/user-attachments/assets/63025b3e-f3bc-40de-9c78-f47530ae803b" />
 
-<img width="652" height="615" alt="Screenshot 2025-12-31 131537" src="https://github.com/user-attachments/assets/24075a22-405c-456a-99f8-5c228af389fc" />
+<img width="652" height="615" alt="Screenshot 2025-12-31 131537" src="https://github.com/user-attachments/assets/8f0dd890-c4e6-4529-9a07-d89a393be2ad" />
 
-<img width="652" height="615" alt="Screenshot 2025-12-31 131742" src="https://github.com/user-attachments/assets/7502b1c2-7a24-42b3-b34c-5b0dc6ecf5ea" />
+<img width="652" height="615" alt="Screenshot 2025-12-31 131742" src="https://github.com/user-attachments/assets/3f18a515-8f5a-43c2-9f5c-0028f149804f" />
 
-<img width="652" height="615" alt="Screenshot 2025-12-31 131753" src="https://github.com/user-attachments/assets/00993cfc-e1c9-4257-9ea5-4878376fae43" />
+<img width="652" height="615" alt="Screenshot 2025-12-31 131753" src="https://github.com/user-attachments/assets/d9c60e2b-f977-4a4b-bda5-536a009cbc73" />
 
-<img width="1483" height="762" alt="Screenshot 2025-12-31 131805" src="https://github.com/user-attachments/assets/6e305f37-df52-4750-964e-85f3b90a3dae" />
+<img width="1483" height="762" alt="Screenshot 2025-12-31 131805" src="https://github.com/user-attachments/assets/c12839b9-ca7a-44eb-bdd7-0d00e7542420" />
 
 
 📚 Learning Outcomes
